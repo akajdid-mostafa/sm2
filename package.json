@@ -41,5 +41,6 @@
     "@types/react": "19.1.13",
     "sass": "^1.93.1",
     "typescript": "5.9.2"
-  }
+  },
+  "description": "sm2 — a SCSS-powered project with useful, real-world functionality."
 }
